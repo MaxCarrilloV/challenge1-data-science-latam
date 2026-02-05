@@ -12,3 +12,4 @@ El proyecto se organiza en un cuaderno Colab que realiza el siguiente flujo de t
 6.  **Productos Más y Menos Vendidos**: Identificación de los productos con mayor y menor volumen de ventas en cada tienda.
 7.  **Costo de Envío Promedio por Tienda**: Determinación del costo de envío promedio para cada establecimiento.
 8.  **Conclusión y Recomendación**: Integración de todos los hallazgos para formular una recomendación al Sr. Juan.
+9.  Ejecuta todas las celdas secuencialmente. 🤝 Contribuciones Este es un proyecto educativo.
